@@ -1,0 +1,50 @@
+Job Description: Snowflake Data Engineer (2+ Years Experience)
+
+Role: Snowflake Data Engineer
+Experience: 2–4 years
+Location: Hyderabad
+Employment Type: Full-time
+
+About the Role
+We are looking for a Snowflake Data Engineer with hands-on experience in building data pipelines, developing data models, and working across modern cloud data platforms. The ideal candidate will have strong SQL skills, good understanding of data warehousing concepts, and practical experience implementing solutions on Snowflake.
+
+Key Responsibilities
+Develop, optimize, and maintain ETL/ELT pipelines using Snowflake and related tools.
+Design and implement Snowflake schemas, views, materialized views, and stored procedures.
+Manage Snowflake workloads, including Virtual Warehouses, Roles, and Security policies.
+Work with semi-structured data (JSON, Parquet, Avro) using Snowflake-native functions.
+Build and manage data ingestion pipelines using tools such as Airflow, DBT, AWS Glue, or Informatica (whatever applies to your company).
+Implement performance tuning strategies: clustering, micro-partitioning, and query optimization.
+Collaborate with data analysts, BI engineers, and product teams to deliver scalable datasets.
+Ensure data quality, governance, and compliance across environments.
+Work with cloud services like AWS/GCP/Azure for data movement and storage.
+Participate in code reviews, documentation, and CI/CD processes for data engineering.
+
+Required Skills & Qualifications
+2+ years of hands-on experience with Snowflake (SQL, warehouse management, data ingestion).
+Strong proficiency in SQL and data modeling (Dimensional modeling, Star/Snowflake schema).
+Experience with cloud platforms like AWS (preferred), Azure, or GCP.
+Good understanding of ETL/ELT frameworks and pipeline orchestration.
+Experience working with Python or Scala for data transformation.
+Knowledge of data warehousing concepts and best practices.
+Familiarity with semi-structured data formats (JSON, Parquet).
+Understanding of CI/CD and Git-based workflows.
+
+Good to Have (Optional but Valuable)
+Experience with DBT for transformations in Snowflake.
+Exposure to tools like Fivetran / Airbyte / Matillion for data ingestion.
+Understanding of Snowpipe, Streams & Tasks for automated ingestion.
+Knowledge of BI tools like Tableau, Power BI, or QuickSight.
+Basic understanding of ML pipelines and feature preparation.
+
+Behavioral Expectations
+Strong problem-solving and analytical skills.
+Ability to work in fast-paced, cross-functional teams.
+Good communication skills and documentation discipline.
+Ownership mindset with willingness to explore new data tech.
+
+What We Offer
+Opportunity to work on modern data stack (Snowflake, DBT, Airflow, cloud services).
+Exposure to real-world large-scale analytics projects.
+Learning-driven environment with mentorship and upskilling support.
+Flexible work culture and high-growth role.
