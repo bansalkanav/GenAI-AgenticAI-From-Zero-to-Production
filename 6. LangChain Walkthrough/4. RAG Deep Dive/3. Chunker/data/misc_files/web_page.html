@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThatAIGuy - Profile and Projects</title>
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        // Simple JavaScript function to demonstrate the tag
+        function welcome() {
+            console.log("Welcome to ThatAIGuy's profile!");
+        }
+    </script>
+</head>
+<body>
+    <header>
+        <h1>ThatAIGuy: The Future is Now</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>🤖 About ThatAIGuy</h2>
+            <figure>
+                <img src="https://via.placeholder.com/150" alt="A smiling avatar representing ThatAIGuy" width="150" height="150">
+                <figcaption>ThatAIGuy's Avatar</figcaption>
+            </figure>
+
+            <p>
+                Hello! I'm ThatAIGuy, a developer obsessed with **Artificial Intelligence** and **Machine Learning**. My passion lies in creating tools that simplify complex tasks using cutting-edge models.
+            </p>
+
+            <details>
+                <summary>Click for a quick quote...</summary>
+                <blockquote cite="ThatAIGuy's Blog">
+                    <p>
+                        "The best way to predict the future is to invent it."
+                    </p>
+                    <footer>— <cite>ThatAIGuy</cite></footer>
+                </blockquote>
+            </details>
+
+            <hr>
+
+            <h3>Key Skills</h3>
+            <ul>
+                <li>Python (<abbr title="TensorFlow">TF</abbr>, PyTorch)</li>
+                <li>Data Engineering & Analysis</li>
+                <li>Web Development (<mark>Highlighted</mark>)</li>
+            </ul>
+
+        </section>
+
+        <section id="projects">
+            <h2>✨ Featured Projects</h2>
+            <ol>
+                <li>
+                    <strong>The Text Summarizer:</strong> A simple tool for <ins>quick document analysis</ins>.
+                </li>
+                <li>
+                    <em>Image Generation Bot:</em> A fun project for creative outputs.
+                </li>
+            </ol>
+
+            <h3>Project Status</h3>
+            <table>
+                <caption>Recent Project Milestones</caption>
+                <thead>
+                    <tr>
+                        <th>Project Name</th>
+                        <th>Status</th>
+                        <th>Progress (%)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>AI Chatbot V2</td>
+                        <td><small>Complete</small></td>
+                        <td>100</td>
+                    </tr>
+                    <tr>
+                        <td>Data Pipeline Refactor</td>
+                        <td><del>Delayed</del></td>
+                        <td><data value="75">75</data></td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">Data as of <time datetime="2025-12-03">Dec 3, 2025</time></td>
+                    </tr>
+                </tfoot>
+            </table>
+        </section>
+
+        <aside>
+            <h4>Note from the Author</h4>
+            <p>Check out my <a href="http://example.com/blog" target="_blank">blog</a> for weekly updates!</p>
+        </aside>
+
+        <section id="contact">
+            <h2>✉️ Contact Me</h2>
+            <form action="/submit-contact" method="post">
+                <fieldset>
+                    <legend>Personal Details</legend>
+
+                    <div>
+                        <label for="name">Your Name:</label>
+                        <input type="text" id="name" name="user_name" required>
+                    </div>
+
+                    <div>
+                        <label for="email">Your Email:</label>
+                        <input type="email" id="email" name="user_email" required>
+                    </div>
+
+                    <div>
+                        <label for="topic">Inquiry Topic:</label>
+                        <select id="topic" name="inquiry_topic">
+                            <option value="general">General Inquiry</option>
+                            <option value="hire">Hiring / Freelance</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label for="message">Your Message:</label>
+                        <textarea id="message" name="user_message" rows="5" cols="30"></textarea>
+                    </div>
+                </fieldset>
+
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; <time datetime="2025">2025</time> ThatAIGuy. All rights reserved.</p>
+        <address>
+            <a href="mailto:contact@thataiguy.com">Email Me</a>
+        </address>
+    </footer>
+
+    </body>
+</html>

@@ -1,0 +1,356 @@
+[
+  {
+    "product_id": "ELC001",
+    "name": "Noise-Cancelling Over-Ear Headphones",
+    "brand": "AcoustiVox",
+    "category": "Electronics",
+    "sku": "AV-HP-NC2024",
+    "description": "Premium over-ear headphones with industry-leading noise cancellation and 40-hour battery life. Perfect for travel and focus.",
+    "price_data": {
+      "base_price": 249.99,
+      "currency": "USD",
+      "is_on_sale": true,
+      "sale_price": 199.99
+    },
+    "inventory": {
+      "stock_level": 350,
+      "is_available": true
+    },
+    "attributes": [
+      {
+        "key": "Color",
+        "value": "Midnight Black"
+      },
+      {
+        "key": "Connection",
+        "value": "Bluetooth 5.2"
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 101,
+        "rating": 5,
+        "comment": "Incredible sound quality and comfort!"
+      }
+    ]
+  },
+  {
+    "product_id": "FSH005",
+    "name": "Organic Cotton Crewneck T-Shirt",
+    "brand": "EcoThread",
+    "category": "Apparel",
+    "sku": "ET-TS-CRC005",
+    "description": "Soft, breathable, and sustainably sourced cotton t-shirt. Available in multiple sizes.",
+    "price_data": {
+      "base_price": 35.00,
+      "currency": "USD",
+      "is_on_sale": false
+    },
+    "inventory": {
+      "stock_level": 1200,
+      "is_available": true
+    },
+    "attributes": [
+      {
+        "key": "Color",
+        "value": "Forest Green"
+      },
+      {
+        "key": "Material",
+        "value": "100% Organic Cotton"
+      },
+      {
+        "key": "Size_Variants",
+        "options": ["S", "M", "L", "XL"]
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "product_id": "BOK012",
+    "name": "The Future of AI: A Beginner's Guide",
+    "brand": "TechPress",
+    "category": "Books",
+    "sku": "TP-BK-AI012",
+    "description": "An accessible introduction to Artificial Intelligence, covering neural networks, machine learning, and ethics.",
+    "price_data": {
+      "base_price": 19.99,
+      "currency": "USD",
+      "is_on_sale": false
+    },
+    "inventory": {
+      "stock_level": 0,
+      "is_available": false,
+      "reorder_date": "2026-01-15"
+    },
+    "attributes": [
+      {
+        "key": "Format",
+        "value": "Hardcover"
+      },
+      {
+        "key": "Author",
+        "value": "Dr. Alex Chen"
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 204,
+        "rating": 5,
+        "comment": "A must-read for anyone interested in technology."
+      },
+      {
+        "user_id": 310,
+        "rating": 4,
+        "comment": "Very informative, though some chapters were dense."
+      }
+    ]
+  },
+  {
+    "product_id": "KIT007",
+    "name": "Stainless Steel Mixer (5-Quart)",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "sku": "KP-MIX-SS007",
+    "description": "Powerful 5-speed stand mixer with stainless steel bowl and three attachments.",
+    "price_data": {
+      "base_price": 299.00,
+      "currency": "USD",
+      "is_on_sale": true,
+      "sale_price": 249.00,
+      "valid_until": "2025-12-31"
+    },
+    "inventory": {
+      "stock_level": 75,
+      "is_available": true
+    },
+    "attributes": [
+      {
+        "key": "Capacity",
+        "value": "5 Quarts"
+      },
+      {
+        "key": "Power",
+        "value": "300W"
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 512,
+        "rating": 5,
+        "comment": "Exceeded expectations. Very durable."
+      }
+    ]
+  },
+  {
+    "product_id": "SPG020",
+    "name": "All-Season Camping Tent (4-Person)",
+    "brand": "TrailBlazer",
+    "category": "Sports & Outdoors",
+    "sku": "TB-TENT-4P",
+    "description": "Lightweight, waterproof tent designed for comfort in all four seasons.",
+    "price_data": {
+      "base_price": 189.50,
+      "currency": "USD",
+      "is_on_sale": false
+    },
+    "inventory": {
+      "stock_level": 40,
+      "is_available": true
+    },
+    "attributes": [
+      {
+        "key": "Capacity",
+        "value": "4 Person"
+      },
+      {
+        "key": "Weight_kg",
+        "value": 3.8
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 601,
+        "rating": 5,
+        "comment": "Survived a major storm with no issues!"
+      },
+      {
+        "user_id": 602,
+        "rating": 4,
+        "comment": "Great tent, but the setup instructions could be clearer."
+      }
+    ]
+  },
+  {
+    "product_id": "JWL105",
+    "name": "Sterling Silver Infinity Necklace",
+    "brand": "LuxeSparkle",
+    "category": "Jewelry",
+    "sku": "LS-NKL-INF105",
+    "description": "Dainty infinity loop pendant on an 18-inch sterling silver chain. Comes in a velvet gift box.",
+    "price_data": {
+      "base_price": 65.00,
+      "currency": "USD",
+      "is_on_sale": true,
+      "sale_price": 52.00
+    },
+    "inventory": {
+      "stock_level": 90,
+      "is_available": true
+    },
+    "attributes": [
+      {
+        "key": "Metal",
+        "value": "Sterling Silver"
+      },
+      {
+        "key": "Chain_Length_in",
+        "value": 18
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "product_id": "FUR033",
+    "name": "Mid-Century Modern Desk Lamp",
+    "brand": "Luminos",
+    "category": "Furniture",
+    "sku": "LM-DL-MCM033",
+    "description": "Adjustable arm desk lamp with a brass finish and matte black shade.",
+    "price_data": {
+      "base_price": 89.99,
+      "currency": "USD",
+      "is_on_sale": false
+    },
+    "inventory": {
+      "stock_level": 12,
+      "is_available": true,
+      "low_stock_threshold": 15
+    },
+    "attributes": [
+      {
+        "key": "Bulb_Type",
+        "value": "LED (E26 Base)"
+      },
+      {
+        "key": "Finish",
+        "value": "Brass/Matte Black"
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 711,
+        "rating": 4,
+        "comment": "Looks fantastic on my home office desk."
+      }
+    ]
+  },
+  {
+    "product_id": "PET045",
+    "name": "Automated Pet Feeder (Wi-Fi Enabled)",
+    "brand": "FurryFriendTech",
+    "category": "Pet Supplies",
+    "sku": "FFT-AF-WIFI",
+    "description": "Schedule and monitor feeding times remotely via a smartphone app. 6-liter capacity.",
+    "price_data": {
+      "base_price": 149.00,
+      "currency": "USD",
+      "is_on_sale": false
+    },
+    "inventory": {
+      "stock_level": 55,
+      "is_available": true
+    },
+    "attributes": [
+      {
+        "key": "Capacity",
+        "value": "6 Liters"
+      },
+      {
+        "key": "Features",
+        "value": "Voice Recording, App Control"
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 801,
+        "rating": 5,
+        "comment": "Life-saver for busy pet owners. Works perfectly."
+      },
+      {
+        "user_id": 802,
+        "rating": 5,
+        "comment": "Setup was easy, and the portions are accurate."
+      },
+      {
+        "user_id": 803,
+        "rating": 4,
+        "comment": "Great product, but it is a little loud."
+      }
+    ]
+  },
+  {
+    "product_id": "VID200",
+    "name": "Apex Legends - Legacy Edition (PC)",
+    "brand": "EA Games",
+    "category": "Video Games",
+    "sku": "EAG-APX-LEGPC",
+    "description": "The ultimate bundle for Apex Legends players, including exclusive skins and battle pass access.",
+    "price_data": {
+      "base_price": 59.99,
+      "currency": "USD",
+      "is_on_sale": true,
+      "sale_price": 44.99
+    },
+    "inventory": {
+      "stock_level": 10000,
+      "is_available": true,
+      "is_digital": true
+    },
+    "attributes": [
+      {
+        "key": "Platform",
+        "value": "PC (Digital Key)"
+      },
+      {
+        "key": "Genre",
+        "value": "Battle Royale, FPS"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "product_id": "GRD050",
+    "name": "Hydroponic Smart Garden Kit",
+    "brand": "UrbanFarmer",
+    "category": "Gardening",
+    "sku": "UF-HG-SMART",
+    "description": "Grow fresh herbs and vegetables indoors year-round with a self-watering, LED-lit system.",
+    "price_data": {
+      "base_price": 129.00,
+      "currency": "USD",
+      "is_on_sale": false
+    },
+    "inventory": {
+      "stock_level": 15,
+      "is_available": true
+    },
+    "attributes": [
+      {
+        "key": "Plant_Capacity",
+        "value": 9
+      },
+      {
+        "key": "Light_Source",
+        "value": "Full Spectrum LED"
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 901,
+        "rating": 5,
+        "comment": "So easy to use. My basil is thriving!"
+      }
+    ]
+  }
+]
